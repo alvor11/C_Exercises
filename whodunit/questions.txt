@@ -1,0 +1,12 @@
+1.  TODO A header file declares several integer types
+2.  TODO
+3.  TODO BYTE - 1 byte, DWORD - 4 byte, LONG - 4 byte, WORD - 2 byte
+4.  TODO BM
+5.  TODO bfSize - file size, biSize - image size
+6.  TODO start image in top left corner
+7.  TODO biBitCount
+8.  TODO If the file can not be opened, NULL is returned
+9.  TODO Reads one item at a time
+10. TODO 1
+11. TODO Moves the position indicator in the stream
+12. TODO Current position of the file
